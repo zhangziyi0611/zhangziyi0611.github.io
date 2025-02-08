@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "wechat.png"
   name             : &name "Ziyi Zhang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "A third-year undergraduate student at the Nankai University."
   location         : "Tianjin"
   employer         : "Nankai University"
-  uri              : https://zhangziyi0611.github.io
+  uri              : "https://zhangziyi0611.github.io"
   email            : "2210757@mail.nankai.edu.cn" 
 
   # Academic websites
