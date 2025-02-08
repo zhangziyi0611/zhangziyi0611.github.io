@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "wechat.png"
+  name             : &name "Ziyi Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A third-year undergraduate student at the Nankai University."
   location         : "Earth"
   employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : https://zhangziyi0611.github.io
+  email            : "2210757@mail.nankai.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
